@@ -25,5 +25,9 @@
     "handlebars": "^4.1.0",
     "mongoose": "^4.13.18",
     "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "^10.15.1"
+   
   }
 }
