@@ -4,6 +4,7 @@
   "description": "WebDev Bootcamp 18 homework - News Scraper app, Mongo, Mongoose, Cheerio(web scraping)",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
